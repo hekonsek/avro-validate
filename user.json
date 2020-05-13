@@ -1,0 +1,16 @@
+{
+  "type": "record",
+  "namespace": "myproject",
+  "name": "user",
+  "version": "1",
+  "fields": [
+    {
+      "name": "id",
+      "type": "long"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    }
+  ]
+}
